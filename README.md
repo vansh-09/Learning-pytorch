@@ -3,4 +3,5 @@ This repo is for my personal reference in learning pytorch. you can check it out
 
 
 Day 1: exploring pytorch and the syntax
+<br>
 Day 2: building a linear regression model using dummy dataset
